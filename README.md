@@ -9,7 +9,7 @@ Requirements:
 - prosilver
 
 Style come with 7 color variations :
-- Black
+- Black (default)
 - Black DarkBlue
 - Black Green
 - Black Green2
