@@ -8,7 +8,7 @@ Requirements:
 - phpBB 3.2.1
 - prosilver
 
-Style come with 7 color variations :
+Style come with 4 color variations :
 - Black (default)
 - Black DarkBlue
 - Black Green
