@@ -20,13 +20,17 @@
 */
 @import "custom_config";
 @import "style_config";
-@import "common";
-@import "links";
-@import "content";
-@import "buttons";
-@import "cp";
-@import "forms";
-@import "imageset";
-@import "responsive";
+@import "../../black/theme/common";
+@import "../../black/theme/links";
+@import "../../black/theme/content";
+@import "../../black/theme/buttons";
+@import "../../black/theme/cp";
+@import "../../black/theme/forms";
+@import "../../black/theme/imageset";
+@import "../../black/theme/responsive";
 @import "colours";
 @import "custom";
+@import "../../black/theme/icons";
+@import "../../black/theme/normalize";
+@import "../../black/theme/utilities";
+
