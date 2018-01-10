@@ -112,11 +112,6 @@ ul.topiclist dd {
 	box-sizing: border-box;
 }
 
-ul.topiclist li.row dd {
-	padding: 4px 0 999px 0;
-	margin-bottom: -995px;
-}
-
 ul.topiclist .reported dd {
 	border-color: darken($block-background-reported, 7%);
 }
